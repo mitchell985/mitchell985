@@ -1,6 +1,6 @@
 # 👋 Hi, 
 I’m Mitchell
-- 👀 I’m interested in many things. Lots of them involve computers abn programming
+- 👀 I’m interested in many things. Lots of them involve computers and programming.
 - 🌱 I’m currently learning Typescript and the MEAN stack. Focusing on API development.
 - 📫 Reach me at opro@windowslive.com
 
